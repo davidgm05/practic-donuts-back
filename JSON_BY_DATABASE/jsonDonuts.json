@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "6671a78b820d5e7e553120da",
+      "nombre": "donut chocoloco",
+      "sabor": "chocolate",
+      "precio": 2,
+      "__v": 0
+    },
+    {
+      "_id": "6671aed3643b2a9a3e158545",
+      "nombre": "donut fresita",
+      "sabor": "fresa",
+      "precio": 3,
+      "__v": 0
+    },
+    {
+      "_id": "6671aee4643b2a9a3e158547",
+      "nombre": "donut kinder",
+      "sabor": "kinder",
+      "precio": 3,
+      "__v": 0
+    },
+    {
+      "_id": "6671c7e491cadb0989cecc97",
+      "nombre": "donut limasa",
+      "sabor": "lima",
+      "precio": 2,
+      "__v": 0
+    },
+    {
+      "_id": "6671c83491cadb0989cecc9c",
+      "nombre": "donut caramel",
+      "sabor": "caramelo",
+      "precio": 4,
+      "__v": 0
+    },
+    {
+      "_id": "6671c85f91cadb0989cecca1",
+      "nombre": "donut milki",
+      "sabor": "chocolate blanco",
+      "precio": 4,
+      "__v": 0
+    }
+  ]
